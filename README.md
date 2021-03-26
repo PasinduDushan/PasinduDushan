@@ -27,4 +27,4 @@
 <br>
 
 [![Pasindu](https://github-readme-stats.vercel.app/api?username=PasinduDushan&show_icons=true&theme=tokyonight)](https://github.com/PasinduDushan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduDushan&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/hasala2002)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduDushan&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/PasinduDushan)
