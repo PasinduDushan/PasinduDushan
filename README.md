@@ -15,6 +15,12 @@
 - 👨‍💻 Enjoy collaborating on `open source` projects.
 - ✈️ Fun Fact: Love to visit interesting places
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e9d44d)
+![](https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=ffca28)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
 
 ### Frequently Used Languages and Tools 
 
