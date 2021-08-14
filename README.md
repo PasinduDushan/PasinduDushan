@@ -10,7 +10,7 @@
 
 ### About Me
 
-- 📊 Good Back-End Developer
+- 📊 Back-End Developer
 - ⚡️ Like to help other people alot
 - 👨‍💻 Enjoy collaborating on `open source` projects.
 - ✈️ Fun Fact: Love to visit interesting places
