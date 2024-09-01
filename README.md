@@ -4,10 +4,6 @@
 
 <br>
 
-<div align="center">
-<h3>JavaScript Back-End Developer and a Verified Discord Bot Developer</h3>
-</div>
-
 ### About Me
 
 - 📊 Full-Stack Developer
