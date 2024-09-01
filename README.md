@@ -1,5 +1,6 @@
 <div align="center">
- <h1> Hi, I'm Pasindu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+ <h1>Hey there, I'm Pasindu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=37BC9C&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Savvy+Traveler;Coding+with+Passion" alt="Typing SVG">
 </div>
 
 <br>
