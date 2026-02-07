@@ -1,32 +1,88 @@
 <div align="center">
- <h1>Hey there, I'm Pasindu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=37BC9C&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Savvy+Traveler;Coding+with+Passion" alt="Typing SVG">
+  <h1>Yo, I'm Pasindu 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=700&color=37BC9C&center=true&vCenter=true&width=600&lines=Software+Engineer;Builds+Stuff+That+Actually+Works;Backend+Heavy+But+Full-Stack;Always+Down+to+Learn" />
 </div>
 
-<br>
+<br />
 
-### About Me
+## 🧠 About Me
 
-- 📊 Full-Stack Developer
-- ⚡️ Like to help other people alot
-- 👨‍💻 Enjoy collaborating on `open source` projects.
-- ✈️ Fun Fact: Love to visit interesting places
+- 👨‍💻 Just a dev who enjoys building things and breaking them (on purpose)
+- ⚙️ Mostly into **backend, systems, and low-level-ish stuff**
+- 🌐 Also comfortable across the **full stack**
+- 🧩 Like solving weird problems more than writing fancy buzzwords
+- 😌 Pretty chill, until the code is bad
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e9d44d)
-![](https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=ffca28)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
+---
 
-### Frequently Used Languages and Tools 
+## 🧰 Tech I Actually Use
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="40" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775"></code>
+### Languages
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 
-<br>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduDushan&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/PasinduDushan)
+### Backend / APIs
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png"></code>
+
+---
+
+### Frontend
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
+
+---
+
+### Databases
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+
+---
+
+### Cloud / DevOps / Systems
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"></code>
+
+---
+
+### Tools
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png"></code>
+
+---
+
+## 📊 GitHub (stable + works)
+
+<p align="center">
+  [![Pasindu's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=PasinduDushan)](https://github.com/PasinduDushan)
+</p>
+
+---
+
+## 🧪 Currently Playing With
+
+- Backend performance
+- System internals
+- Security-ish stuff
+- Random ideas that might become repos
+
+---
+
+😎 **Code speaks louder than bios.**
