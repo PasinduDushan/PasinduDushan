@@ -70,7 +70,7 @@
 
 ## 📊 GitHub (stable + works)
 
-  [![Pasindu's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=PasinduDushan)](https://github.com/PasinduDushan)
+  [![Pasindu's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=PasinduDushan&show_icons=true&theme=radical)](https://github.com/PasinduDushan)
 
 ---
 
